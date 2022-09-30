@@ -24,6 +24,13 @@
  👀 I’m interested in coding, coding and more coding
  
  💞️ I’m looking to collaborate on new web project
+ 
+ 🧲 You can reach me Linked In
+ 
+ 
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minjuy/)
+ 
+ 
 
  🛠️ Languages & Tools
 
@@ -52,13 +59,6 @@
 ![download](https://img.shields.io/github/downloads/Mjmissionready/Turner/total.svg) ![pull](https://img.shields.io/github/issues-pr/Mjmissionready/Turner.svg) ![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 
- 
- 🧲 You can reach me Linked In
- 
- 
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minjuy/)
- 
- 
  
 <!---
 Mjmissionready/Mjmissionready is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
