@@ -30,6 +30,9 @@
 
 
 ![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,nodejs,react,mysql,figma,&theme=light)
+
+ 🧲 You can reach me Linked In
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minjuy/)
   
   
 ---
