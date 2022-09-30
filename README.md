@@ -25,7 +25,7 @@
  
  💞️ I’m looking to collaborate on new web project
  
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Kncok!! Knock!! Visit my LinkedIn](https://www.linkedin.com/in/minjuy/)
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Kncok!! Knock!! Visit my LinkedIn](https://www.linkedin.com/in/minjuy/)
  
  
 
