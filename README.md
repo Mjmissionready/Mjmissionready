@@ -17,9 +17,9 @@
 
  👋 Hi, I’m @Mjmissionready
 
- 🌸 I'm graphic designer & video editor
+ 🌸 I'm graphic designer & video editor & fullstack developer
 
- 🌱 I'm currently studying Full stack developer course in Missionready
+ 🌱 I'm currently working as Assist Full stack developer trainer in Missionready
 
  👀 I’m interested in coding, coding and more coding
  
